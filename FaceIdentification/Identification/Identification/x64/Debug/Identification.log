@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Alignment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  test_face_verification.cpp
+d:\git\seetafaceengine\faceidentification\include\face_identification.h(44): warning C4010: single-line comment contains line-continuation character
+d:\git\seetafaceengine\faceidentification\include\face_identification.h(46): warning C4010: single-line comment contains line-continuation character
+d:\git\seetafaceengine\faceidentification\include\face_identification.h(47): warning C4010: single-line comment contains line-continuation character
+d:\git\seetafaceengine\faceidentification\include\face_identification.h(53): warning C4010: single-line comment contains line-continuation character
+d:\git\seetafaceengine\faceidentification\include\face_identification.h(70): warning C4010: single-line comment contains line-continuation character
+d:\git\seetafaceengine\faceidentification\include\face_identification.h(71): warning C4010: single-line comment contains line-continuation character
+d:\git\seetafaceengine\faceidentification\include\face_identification.h(82): warning C4010: single-line comment contains line-continuation character
+d:\git\seetafaceengine\faceidentification\src\test\test_face_verification.cpp(152): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\git\seetafaceengine\faceidentification\src\test\test_face_verification.cpp(154): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Identification.vcxproj -> D:\git\SeetaFaceEngine\FaceIdentification\Identification\x64\Debug\Identification.exe

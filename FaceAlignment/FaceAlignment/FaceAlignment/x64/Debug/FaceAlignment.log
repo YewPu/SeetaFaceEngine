@@ -1,0 +1,20 @@
+﻿  cfan.cpp
+d:\git\seetafaceengine\facealignment\src\cfan.cpp(167): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\git\seetafaceengine\facealignment\src\cfan.cpp(168): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\git\seetafaceengine\facealignment\src\cfan.cpp(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\git\seetafaceengine\facealignment\src\cfan.cpp(248): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\git\seetafaceengine\facealignment\src\cfan.cpp(291): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\git\seetafaceengine\facealignment\src\cfan.cpp(324): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\git\seetafaceengine\facealignment\src\cfan.cpp(395): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\git\seetafaceengine\facealignment\src\cfan.cpp(396): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  face_alignment.cpp
+d:\git\seetafaceengine\facealignment\src\face_alignment.cpp(46): warning C4273: 'seeta::FaceAlignment::FaceAlignment': inconsistent dll linkage
+  d:\git\seetafaceengine\facealignment\include\face_alignment.h(49): note: see previous definition of '{ctor}'
+d:\git\seetafaceengine\facealignment\src\face_alignment.cpp(59): warning C4273: 'seeta::FaceAlignment::PointDetectLandmarks': inconsistent dll linkage
+  d:\git\seetafaceengine\facealignment\include\face_alignment.h(61): note: see previous definition of 'PointDetectLandmarks'
+d:\git\seetafaceengine\facealignment\src\face_alignment.cpp(79): warning C4273: 'seeta::FaceAlignment::~FaceAlignment': inconsistent dll linkage
+  d:\git\seetafaceengine\facealignment\include\face_alignment.h(54): note: see previous definition of '{dtor}'
+  sift.cpp
+  Generating Code...
+     Creating library D:\git\SeetaFaceEngine\FaceAlignment\FaceAlignment\x64\Debug\FaceAlignment.lib and object D:\git\SeetaFaceEngine\FaceAlignment\FaceAlignment\x64\Debug\FaceAlignment.exp
+  FaceAlignment.vcxproj -> D:\git\SeetaFaceEngine\FaceAlignment\FaceAlignment\x64\Debug\FaceAlignment.dll

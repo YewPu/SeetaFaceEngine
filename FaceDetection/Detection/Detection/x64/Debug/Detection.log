@@ -1,0 +1,4 @@
+﻿  mydetection.cpp
+d:\git\seetafaceengine\facedetection\detection\detection\mydetection.cpp(45): warning C4244: 'initializing': conversion from 'int64' to 'long', possible loss of data
+d:\git\seetafaceengine\facedetection\detection\detection\mydetection.cpp(47): warning C4244: 'initializing': conversion from 'int64' to 'long', possible loss of data
+  Detection.vcxproj -> D:\git\SeetaFaceEngine\FaceDetection\Detection\x64\Debug\Detection.exe

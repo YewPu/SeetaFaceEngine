@@ -1,0 +1,30 @@
+﻿  lab_boosted_classifier.cpp
+  mlp.cpp
+  surf_mlp.cpp
+  face_detection.cpp
+d:\git\seetafaceengine\facedetection\src\face_detection.cpp(73): warning C4273: 'seeta::FaceDetection::FaceDetection': inconsistent dll linkage
+  d:\git\seetafaceengine\facedetection\include\face_detection.h(44): note: see previous definition of '{ctor}'
+d:\git\seetafaceengine\facedetection\src\face_detection.cpp(77): warning C4273: 'seeta::FaceDetection::~FaceDetection': inconsistent dll linkage
+  d:\git\seetafaceengine\facedetection\include\face_detection.h(45): note: see previous definition of '{dtor}'
+d:\git\seetafaceengine\facedetection\src\face_detection.cpp(83): warning C4273: 'seeta::FaceDetection::Detect': inconsistent dll linkage
+  d:\git\seetafaceengine\facedetection\include\face_detection.h(54): note: see previous definition of 'Detect'
+d:\git\seetafaceengine\facedetection\src\face_detection.cpp(111): warning C4273: 'seeta::FaceDetection::SetMinFaceSize': inconsistent dll linkage
+  d:\git\seetafaceengine\facedetection\include\face_detection.h(62): note: see previous definition of 'SetMinFaceSize'
+d:\git\seetafaceengine\facedetection\src\face_detection.cpp(118): warning C4273: 'seeta::FaceDetection::SetMaxFaceSize': inconsistent dll linkage
+  d:\git\seetafaceengine\facedetection\include\face_detection.h(70): note: see previous definition of 'SetMaxFaceSize'
+d:\git\seetafaceengine\facedetection\src\face_detection.cpp(123): warning C4273: 'seeta::FaceDetection::SetImagePyramidScaleFactor': inconsistent dll linkage
+  d:\git\seetafaceengine\facedetection\include\face_detection.h(79): note: see previous definition of 'SetImagePyramidScaleFactor'
+d:\git\seetafaceengine\facedetection\src\face_detection.cpp(128): warning C4273: 'seeta::FaceDetection::SetWindowStep': inconsistent dll linkage
+  d:\git\seetafaceengine\facedetection\include\face_detection.h(87): note: see previous definition of 'SetWindowStep'
+d:\git\seetafaceengine\facedetection\src\face_detection.cpp(135): warning C4273: 'seeta::FaceDetection::SetScoreThresh': inconsistent dll linkage
+  d:\git\seetafaceengine\facedetection\include\face_detection.h(96): note: see previous definition of 'SetScoreThresh'
+  lab_feature_map.cpp
+  surf_feature_map.cpp
+  fust.cpp
+  lab_boost_model_reader.cpp
+  surf_mlp_model_reader.cpp
+  image_pyramid.cpp
+  nms.cpp
+  Generating Code...
+     Creating library D:\git\SeetaFaceEngine\FaceDetection\Detection\x64\Debug\FaceDetection.lib and object D:\git\SeetaFaceEngine\FaceDetection\Detection\x64\Debug\FaceDetection.exp
+  FaceDetection.vcxproj -> D:\git\SeetaFaceEngine\FaceDetection\Detection\x64\Debug\FaceDetection.dll
